@@ -2,10 +2,10 @@
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME:**  SUDHARSAN S
+### **DEPARTMENT:**  CSE
+### **ROLL NO:**  212224040335
+### **DATE OF EXPERIMENT:**  24.03.2025
 
 ---
 
@@ -112,6 +112,7 @@ while True:
     print(f"Accel: X={ax:.2f}g, Y={ay:.2f}g, Z={az:.2f}g | Gyro: X={gx:.2f}°/s, Y={gy:.2f}°/s, Z={gz:.2f}°/s")
     utime.sleep(1)
 ```
+
 
 ---
 
