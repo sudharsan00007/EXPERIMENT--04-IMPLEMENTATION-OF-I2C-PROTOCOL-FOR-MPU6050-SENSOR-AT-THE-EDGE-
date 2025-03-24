@@ -2,10 +2,10 @@
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME:**  SUDHARSAN S
+### **DEPARTMENT:**  CSE 
+### **ROLL NO:**  212224040335
+### **DATE OF EXPERIMENT:**  24.03.2025
 
 ---
 
@@ -122,6 +122,13 @@ Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
 Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ...
 ```
+
+![image](https://github.com/user-attachments/assets/ffd27f5b-def6-4c93-bf05-43481a7e941b)
+
+![image](https://github.com/user-attachments/assets/ab082e68-4491-45ca-b148-7ecab711f3ab)
+
+![image](https://github.com/user-attachments/assets/e5b678a1-ae08-4021-9a7e-6cc30067e8b8)
+
 ---
 
 ## **RESULT:**  
